@@ -20,5 +20,3 @@ void free_listint(listint_t *head)
 
 	free(head);
 }
-© 2021 GitHub, Inc.
-Terms
