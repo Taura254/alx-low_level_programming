@@ -1,5 +1,4 @@
 #ifndef _S_LINK_LISTS_
-#ifndef _S_LINK_LISTS_
 #define _S_LINK_LISTS_
 
 /**
