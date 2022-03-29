@@ -1,6 +1,6 @@
 /*
  * File: 0-linear.c
- * Auth: Benjamin Taura 
+ * Auth: Benjamin Taura
  */
 
 #include "search_algos.h"
